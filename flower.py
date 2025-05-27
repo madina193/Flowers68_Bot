@@ -4,7 +4,7 @@ from telegram import ReplyKeyboardMarkup, KeyboardButton
 import sqlite3
 import requests
 
-TOKEN = "7761129899:AAEZIihb4BBeBtBNilGJqLIjfBtlPAeSq4w"
+from flower2 import TOKEN
 
 FLOWERS = {
     "Розы": "https://rozmari05.ru/rozy/",
